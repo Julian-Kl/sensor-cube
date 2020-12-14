@@ -4,9 +4,9 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: IoT Sensor Cube
 
-Describe your project
+IoT Sensor Cube
 
 == Step 1: Installation
 Please describe the steps to install this project.
